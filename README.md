@@ -2,7 +2,7 @@
 
 Play the game at itch.io
 https://bringsalavat.itch.io/worldeclone
-![WordleCloneBanner](https://github.com/MustafaKaanGungor/wordleclone/blob/main/image.jpg?raw=true)
+![WordleCloneBanner](https://github.com/MustafaKaanGungor/wordleclone/blob/main/Assets/BannerWorlde.png?raw=true)
 
 Find the correct word!
 
