@@ -1,9 +1,11 @@
-Classic Wordle game made in Unity
+### Classic Wordle game made in Unity
 
 Play the game at itch.io
 https://bringsalavat.itch.io/worldeclone
+![WordleCloneBanner](https://github.com/MustafaKaanGungor/wordleclone/blob/main/image.jpg?raw=true)
 
 Find the correct word!
+
 
 
 Every word is 5 letter long. 
@@ -21,6 +23,6 @@ Green means letter is in the word and it is in the correct spot!
 Find the word in shortest amount of time to score high!
 
 
-Credits
+### Credits
 
 Mustafa Kaan Güngör (BringSalavat) - Programming
